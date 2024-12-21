@@ -5,7 +5,11 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <futer>
+        <a href="ИЮЮЮ"></a>
+      </futer>
+    </div>
   )
 }
 
